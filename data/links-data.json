@@ -1,0 +1,54 @@
+[
+  {
+    "image": "/uploads/links/adu.jpg",
+    "title": "Научно-методическое учреждение «Национальный институт образования» Министерства образования Республики Беларусь",
+    "link": "https://adu.by/ru",
+    "variant": "h"
+  },
+  {
+    "image": "/uploads/links/комитет.png",
+    "title": "Главное управление образования Гродненского областного исполнительного комитета",
+    "link": "https://edu-grodno.gov.by"
+  },
+  {
+    "image": "/uploads/links/отдел.jpg",
+    "title": "Отдел образования, спорта и туризма Октябрьского района г. Гродно",
+    "link": "https://oktue.ihb.by",
+    "variant": "h"
+  },
+  {
+    "image": "/uploads/links/гроиро.jpg",
+    "title": "Гродненский областной институт развития образования",
+    "link": "https://groiro.by"
+  },
+  {
+    "image": "/uploads/links/АПО.jpg",
+    "title": "Академия последипломного образования",
+    "link": "https://www.academy.edu.by/perepodgotovka.html",
+    "variant": "h"
+  },
+  {
+    "image": "/uploads/links/институт.jpg",
+    "title": "Институт современных знаний",
+    "link": "https://www.isz.minsk.by",
+    "variant": "h"
+  },
+  {
+    "image": "/uploads/links/журнал.png",
+    "title": "Педагогический журнал \"Учитель\"",
+    "link": "https://www.ychitel.com",
+    "variant": "h"
+  },
+  {
+    "image": "/uploads/links/портал.png",
+    "title": "Все для учителя. Учительский портал",
+    "link": "https://www.uchportal.ru",
+    "variant": "h"
+  },
+  {
+    "image": "/uploads/links/1сентября.svg",
+    "title": "Открытый урок. Первое сентября",
+    "link": "https://urok.1sept.ru",
+    "variant": "h"
+  }
+]

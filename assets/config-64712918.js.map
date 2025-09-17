@@ -1,0 +1,1 @@
+{"version":3,"file":"config-64712918.js","sources":["../../src/config.js"],"sourcesContent":["const config = {\r\n    APPLICATION_URL: import.meta.env.VITE_API_APPLICATION_URL\r\n}\r\nexport default config;"],"names":["config$1","APPLICATION_URL"],"mappings":"AAAA,MAGAA,EAHe,CACXC,gBAAiB"}

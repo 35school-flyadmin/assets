@@ -1,0 +1,188 @@
+{
+  "books": {
+    "title": "Учебники",
+    "items": [
+      {
+        "image": "/uploads/1.jpg",
+        "title": "Математика: учебное пособие. Ч.1",
+        "description": "5 класс, русский язык обучения, 2020, Герасимов, В. Д., Пирютко, О. Н., Лобанов, А. П.",
+        "link": {
+          "url": "/uploads/Matematika_5kl_ch1_Gerasimov_rus_2020.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/2.jpg",
+        "title": "Математика: учебное пособие. Ч.2",
+        "description": "5 класс, русский язык обучения, 2020, Герасимов, В. Д., Пирютко, О. Н., Лобанов, А. П.",
+        "link": {
+          "url": "/uploads/Matematika_5kl_ch2_Gerasimov_rus_2020.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/math6.jpg",
+        "title": "Математика: учебное пособие.",
+        "description": "6 класс, русский язык обучения, 2018, Герасимов, В. Д., Пирютко, О. Н.",
+        "link": {
+          "url": "/uploads/math6kl.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/algebra7.jpg",
+        "title": "Алгебра: учебное пособие.",
+        "description": "7 класс, русский язык обучения, 2017, Арефьева, И.Г., Пирютко, О. Н.",
+        "link": {
+          "url": "/uploads/algebra7_rus_2017.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/geo7.jpg",
+        "title": "Геометрия учебное пособие.",
+        "description": "7 класс, русский язык обучения, 2017, Казаков В.В.",
+        "link": {
+          "url": "/uploads/ge7kl_rus_2017.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/алг8.png",
+        "title": "Алгебра учебное пособие.",
+        "description": "8 класс, русский язык обучения, 2018, Арефьева, И.Г., Пирютко, О. Н.",
+        "link": {
+          "url": "/uploads/алгебра 8кл.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/гео8.png",
+        "title": "Геометрия учебное пособие.",
+        "description": "8 класс, русский язык обучения, 2018, Казаков В.В.",
+        "link": {
+          "url": "/uploads/геометрия 8кл.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/алг9.png",
+        "title": "Алгебра учебное пособие.",
+        "description": "9 класс, русский язык обучения, 2019, Арефьева, И.Г., Пирютко, О. Н.",
+        "link": {
+          "url": "/uploads/алгебра 9кл.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/гео9.png",
+        "title": "Геометрия учебное пособие.",
+        "description": "9 класс, русский язык обучения, 2019, Казаков В.В.",
+        "link": {
+          "url": "/uploads/геометрия 9кл.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/алг10.png",
+        "title": "Алгебра учебное пособие.",
+        "description": "10 класс, русский язык обучения, 2019, Арефьева, И.Г., Пирютко, О. Н.",
+        "link": {
+          "url": "/uploads/Algebra_10kl_Arefieva_rus_2019.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/гео10.png",
+        "title": "Геометрия учебное пособие.",
+        "description": "10 класс, русский язык обучения, 2020, Латотин Л.А.",
+        "link": {
+          "url": "/uploads/Geometriya_10kl_Latotin_rus_2020.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/алг11.png",
+        "title": "Алгебра учебное пособие.",
+        "description": "11 класс, русский язык обучения, 2020, Арефьева, И.Г., Пирютко, О. Н.",
+        "link": {
+          "url": "/uploads/algebra_11kl_arefieva_rus_2020.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/гео11.png",
+        "title": "Геометрия учебное пособие.",
+        "description": "11 класс, русский язык обучения, 2020, Латотин Л.А., Чеботаревсчкий Б.Д.",
+        "link": {
+          "url": "/uploads/geometriya_11kl_latotin_rus_2020.pdf",
+          "type": "FILE"
+        }
+      }
+    ]
+  },
+  "teachers": {
+    "title": "Учителю",
+    "items": [
+      {
+        "image": "/uploads/адукар.jpg",
+        "title": "Блог «Математика – это здорово!»",
+        "description": "Автор ресурса - Кот Вацлав Иванович, учитель-методист и кандидат педагогических наук",
+        "link": {
+          "url": "https://vivat2.okis.ru/",
+          "type": "LINK"
+        }
+      },
+      {
+        "image": "/uploads/геометрия.jpg",
+        "title": "Блог «Живая Геометрия»",
+        "description": "Автор ресурса - Храповицкий Иван Сергеевич. В постах разбирается ряд примеров, которые представляют интерес не только с точки зрения компьютерной поддержки геометрии, но и с точки зрения новых идей в ее преподавании",
+        "link": {
+          "url": "https://janka-x.livejournal.com/",
+          "type": "LINK"
+        }
+      },
+      {
+        "image": "/uploads/3dldaEDH1YqNWU9Q.jpg",
+        "title": "Сайт «Матемша»",
+        "description": "Автор ресурса - Малюгина Юлия Леонидовна, ГУО «Гимназия № 2 г.Барановичи» Брестской области. Проект - дипломант конкурса КОИ-18",
+        "link": {
+          "url": "http://matemsha.ru/",
+          "type": "LINK"
+        }
+      },
+      {
+        "image": "/uploads/эл пособия.jpg",
+        "title": "Библиотека электронных учебных пособий",
+        "description": "",
+        "link": {
+          "url": "http://mschool.kubsu.ru/npv/index.php",
+          "type": "LINK"
+        }
+      },
+      {
+        "image": "/uploads/шкм.jpg",
+        "title": "Школьная математика",
+        "description": "",
+        "link": {
+          "url": "https://math-prosto.ru/",
+          "type": "LINK"
+        }
+      }
+    ]
+  },
+  "children": {
+    "title": "Учащимся",
+    "items": [
+      {
+        "image": "/uploads/шкм.jpg",
+        "title": "Школьная математика",
+        "description": "",
+        "link": {
+          "url": "https://math-prosto.ru/",
+          "type": "LINK"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Гулевич Татьяна Петровна",
+        "description": "Преподает математику",
+        "types": [
+            {
+                "title": "MATHEMATICS",
+                "classes": []
+            }
+        ],
+        "image": "/images/teachers/a7da672d2c56b07faa65b3617ff867f6.jpg",
+        "active": true
+    },
+    {
+        "title": "Пищик Королина Викторовна",
+        "description": "Преподает математику",
+        "types": [
+            {
+                "title": "MATHEMATICS",
+                "classes": []
+            }
+        ],
+        "image": "/images/teachers/a89eac098d05b775a01a379760882991.jpg",
+        "active": false
+    },
+    {
+        "title": "Иванова Инна Сергеевна",
+        "description": "Преподает математику",
+        "types": [
+            {
+                "title": "MATHEMATICS",
+                "classes": []
+            }
+        ],
+        "image": "/images/teachers/a873d792f48e1546b439cb493496d271.jpg",
+        "active": true
+    },
+    {
+        "title": "Романович Алла Алексеевна",
+        "description": "Преподает математику",
+        "types": [
+            {
+                "title": "MATHEMATICS",
+                "classes": []
+            }
+        ],
+        "image": "/images/teachers/21d607def10bff47025c3e8e02fafd36.jpg",
+        "active": true
+    },
+    {
+        "title": "Козёл Алла Михайловна",
+        "description": "Преподает математику",
+        "types": [
+            {
+                "title": "MATHEMATICS",
+                "classes": []
+            }
+        ],
+        "image": "",
+        "active": true
+    },
+    {
+        "title": "Главицкая Татьяна Николаевна",
+        "description": "Преподает математику",
+        "types": [
+            {
+                "title": "MATHEMATICS",
+                "classes": []
+            }
+        ],
+        "image": "/images/teachers/IMG-586cea2aeaa9a505df18ac2a53a1a31a-V.jpg",
+        "active": true
+    },
+    {
+        "title": "Халько Алёна Игоревна",
+        "description": "Преподает математику",
+        "types": [
+            {
+                "title": "MATHEMATICS",
+                "classes": []
+            }
+        ],
+        "image": "/images/teachers/b80155668f8511a0279a45447e3c2fd0.jpg",
+        "active": true
+    },
+    {
+        "title": "Лукашевич Юлия Александровна",
+        "description": "Преподает информатику",
+        "types": [
+            {
+                "title": "INFORMATICS",
+                "classes": []
+            }
+        ],
+        "image": "",
+        "active": true
+    },
+    {
+        "title": "Шахнюк Татьяна Валентиновна",
+        "description": "Преподает математику",
+        "types": [
+            {
+                "title": "INFORMATICS",
+                "classes": []
+            }
+        ],
+        "image": "/images/teachers/d2f0f41fa490aadcfe4f68d4201c7c58.jpg",
+        "active": true
+    },
+    {
+        "title": "Чергейко Анастасия Николаевна",
+        "description": "Преподает математику",
+        "types": [
+            {
+                "title": "MATHEMATICS",
+                "classes": []
+            }
+        ],
+        "image": "",
+        "active": true
+    }
+]
