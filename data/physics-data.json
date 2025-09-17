@@ -1,0 +1,116 @@
+{
+  "books": {
+    "title": "Учебники",
+    "items": [
+      {
+        "image": "/uploads/imgbooks/inf6.png",
+        "title": "Информатика: учебное пособие",
+        "description": "6 класс, русский язык обучения, 2018, Макарова Н.П.",
+        "link": {
+          "url": "/uploads/informatika_6kl_Makarova_rus_2018.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/inf7.png",
+        "title": "Информатика: учебное пособие",
+        "description": "7 класс, русский язык обучения, 2017, Котов В.М.",
+        "link": {
+          "url": "/uploads/Informatika_Kotov_7kl_rus_2017.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/inf8.png",
+        "title": "Информатика: учебное пособие",
+        "description": "8 класс, русский язык обучения, 2018, Котов В.М.",
+        "link": {
+          "url": "/uploads/Informatika_8kl_Kotov_rus_2018.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/inf9.png",
+        "title": "Информатика: учебное пособие",
+        "description": "9 класс, русский язык обучения, 2019, Котов В.М.",
+        "link": {
+          "url": "/uploads/informatika_9kl_Kotov_rus_2019.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/inf10.png",
+        "title": "Информатика: учебное пособие",
+        "description": "10 класс, русский язык обучения, 2020, Котов В.М.",
+        "link": {
+          "url": "/uploads/Informatika_10kl_Kotov_rus_2020.pdf",
+          "type": "FILE"
+        }
+      },
+      {
+        "image": "/uploads/imgbooks/inf11.png",
+        "title": "Информатика: учебное пособие",
+        "description": "11 класс, русский язык обучения, 2021, Котов В.М.",
+        "link": {
+          "url": "/uploads/Informatika_11kl_Kotov_rus_2021.pdf",
+          "type": "FILE"
+        }
+      }
+    ]
+  },
+  "teachers": {
+    "title": "Учителю",
+    "items": [
+      {
+        "image": "/uploads/инф.jpg",
+        "title": "Блог «Информатика@»",
+        "description": "Автор ресурса - Здановская Ольга Владимировна, учитель информатики и математики, ГУО \"Гимназия №1 имени К.Калиновского Г.Свислочь\"",
+        "link": {
+          "url": "https://e-tetr.blogspot.com/",
+          "type": "LINK"
+        }
+      },
+      {
+        "image": "/uploads/сайт.png",
+        "title": "Сайт учителя информатики Трашкова Олега Леонидовича",
+        "description": "Автор ресурса - Трашков Олег Леонидович, учитель информатики ГУО \"Учебно-педагогический комплекс детский сад - средняя школа №42 города Могилёва\".",
+        "link": {
+          "url": "http://trashkov.net.by/index.html",
+          "type": "LINK"
+        }
+      },
+      {
+        "image": "/uploads/logo7.png",
+        "title": "Блог «К урокам информатики»",
+        "description": "Автор ресурса - Стаскевич Галина Адамовна, учитель информатики ГУО \"Средняя школа № 3 г.Ивацевичи\"",
+        "link": {
+          "url": "https://staskevich.rooivacevichi.gov.by/",
+          "type": "LINK"
+        }
+      },
+      {
+        "image": "/uploads/kartinka.jpg",
+        "title": "Информационно-образовательный сайт учителя информатики и ИКТ",
+        "description": "",
+        "link": {
+          "url": "http://www.klyaksa.net/htm/kopilka/index.htm",
+          "type": "LINK"
+        }
+      }
+    ]
+  },
+  "children": {
+    "title": "Учащимся",
+    "items": [
+      {
+        "image": "/uploads/олимпиада.jpg",
+        "title": "Олимпиады по информатике",
+        "description": "",
+        "link": {
+          "url": "http://www.byoi.narod.ru/slu04_2.htm",
+          "type": "LINK"
+        }
+      }
+    ]
+  }
+}
