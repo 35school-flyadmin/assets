@@ -1,24 +1,24 @@
 {
-  "_ContentViewer-ae44b344.js": {
-    "file": "assets/ContentViewer-ae44b344.js",
+  "_ContentViewer-8fdf1543.js": {
+    "file": "assets/ContentViewer-8fdf1543.js",
     "imports": [
       "index.html",
-      "_HolidaysTimerLogistics-93df2f41.js",
+      "_HolidaysTimerLogistics-08ea8e91.js",
       "src/components/Header.jsx"
     ]
   },
-  "_HolidaysTimerLogistics-93df2f41.js": {
-    "file": "assets/HolidaysTimerLogistics-93df2f41.js",
+  "_HolidaysTimerLogistics-08ea8e91.js": {
+    "file": "assets/HolidaysTimerLogistics-08ea8e91.js",
     "imports": [
       "index.html"
     ]
   },
-  "_TemplateOutputMaterialSubjects-20e483b5.js": {
-    "file": "assets/TemplateOutputMaterialSubjects-20e483b5.js",
+  "_TemplateOutputMaterialSubjects-ad88eeb3.js": {
+    "file": "assets/TemplateOutputMaterialSubjects-ad88eeb3.js",
     "imports": [
       "index.html",
-      "_ContentViewer-ae44b344.js",
-      "_HolidaysTimerLogistics-93df2f41.js",
+      "_ContentViewer-8fdf1543.js",
+      "_HolidaysTimerLogistics-08ea8e91.js",
       "src/components/Filter.jsx",
       "_additional-c4f80976.js",
       "_classNames-3eab2e4d.js"
@@ -52,12 +52,12 @@
       "src/Screens/ViewerDocumentScreen.jsx",
       "src/Screens/FileTest.jsx"
     ],
-    "file": "assets/index-2d42a258.js",
+    "file": "assets/index-d5577b2c.js",
     "isEntry": true,
     "src": "index.html"
   },
   "src/Screens/FileTest.jsx": {
-    "file": "assets/FileTest-462fa81c.js",
+    "file": "assets/FileTest-0d73d500.js",
     "imports": [
       "index.html"
     ],
@@ -68,7 +68,7 @@
     "assets": [
       "assets/cover-675bdbb8.jpg"
     ],
-    "file": "assets/HomeScreen-bcde2c44.js",
+    "file": "assets/HomeScreen-5ba14af2.js",
     "imports": [
       "index.html"
     ],
@@ -76,7 +76,7 @@
     "src": "src/Screens/HomeScreen.jsx"
   },
   "src/Screens/HomeScreenOld.jsx": {
-    "file": "assets/HomeScreenOld-af5fbdc1.js",
+    "file": "assets/HomeScreenOld-438949a9.js",
     "imports": [
       "index.html"
     ],
@@ -88,13 +88,13 @@
       "src/components/Header.jsx",
       "src/components/Filter.jsx"
     ],
-    "file": "assets/InformaticsScreen-7448c580.js",
+    "file": "assets/InformaticsScreen-d00b5d51.js",
     "imports": [
       "index.html",
-      "_HolidaysTimerLogistics-93df2f41.js",
+      "_HolidaysTimerLogistics-08ea8e91.js",
       "_config-64712918.js",
-      "_TemplateOutputMaterialSubjects-20e483b5.js",
-      "_ContentViewer-ae44b344.js",
+      "_TemplateOutputMaterialSubjects-ad88eeb3.js",
+      "_ContentViewer-8fdf1543.js",
       "src/components/Filter.jsx",
       "_additional-c4f80976.js",
       "_classNames-3eab2e4d.js",
@@ -108,12 +108,12 @@
       "src/components/Header.jsx",
       "src/components/Filter.jsx"
     ],
-    "file": "assets/MathematicsScreen-90702564.js",
+    "file": "assets/MathematicsScreen-2e6376f4.js",
     "imports": [
       "index.html",
-      "_HolidaysTimerLogistics-93df2f41.js",
-      "_TemplateOutputMaterialSubjects-20e483b5.js",
-      "_ContentViewer-ae44b344.js",
+      "_HolidaysTimerLogistics-08ea8e91.js",
+      "_TemplateOutputMaterialSubjects-ad88eeb3.js",
+      "_ContentViewer-8fdf1543.js",
       "src/components/Filter.jsx",
       "_additional-c4f80976.js",
       "_classNames-3eab2e4d.js",
@@ -133,12 +133,12 @@
       "src/components/structure/Main.jsx",
       "src/components/structure/Card.jsx"
     ],
-    "file": "assets/MoScreen-ad8f1bc8.js",
+    "file": "assets/MoScreen-3e5dbe51.js",
     "imports": [
       "index.html",
       "src/Screens/ViewerDocumentScreen.jsx",
-      "_HolidaysTimerLogistics-93df2f41.js",
-      "_ContentViewer-ae44b344.js",
+      "_HolidaysTimerLogistics-08ea8e91.js",
+      "_ContentViewer-8fdf1543.js",
       "src/components/Header.jsx"
     ],
     "isDynamicEntry": true,
@@ -148,12 +148,12 @@
     "dynamicImports": [
       "src/components/Filter.jsx"
     ],
-    "file": "assets/TeachersScreen-dd7d7fcc.js",
+    "file": "assets/TeachersScreen-8333ccab.js",
     "imports": [
       "index.html",
       "src/components/Header.jsx",
       "_additional-c4f80976.js",
-      "_HolidaysTimerLogistics-93df2f41.js"
+      "_HolidaysTimerLogistics-08ea8e91.js"
     ],
     "isDynamicEntry": true,
     "src": "src/Screens/TeachersScreen.jsx"
@@ -162,23 +162,23 @@
     "dynamicImports": [
       "src/components/Header.jsx"
     ],
-    "file": "assets/UsefulLinksScreen-41802228.js",
+    "file": "assets/UsefulLinksScreen-278e73ff.js",
     "imports": [
       "index.html",
       "_config-64712918.js",
       "_classNames-3eab2e4d.js",
-      "_HolidaysTimerLogistics-93df2f41.js",
-      "_ContentViewer-ae44b344.js",
+      "_HolidaysTimerLogistics-08ea8e91.js",
+      "_ContentViewer-8fdf1543.js",
       "src/components/Header.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/Screens/UsefulLinksScreen.jsx"
   },
   "src/Screens/ViewerDocumentScreen.jsx": {
-    "file": "assets/ViewerDocumentScreen-3a1da561.js",
+    "file": "assets/ViewerDocumentScreen-07aa7905.js",
     "imports": [
       "index.html",
-      "_HolidaysTimerLogistics-93df2f41.js"
+      "_HolidaysTimerLogistics-08ea8e91.js"
     ],
     "isDynamicEntry": true,
     "src": "src/Screens/ViewerDocumentScreen.jsx"
@@ -196,7 +196,7 @@
     "src": "src/assets/styles.css"
   },
   "src/components/Filter.jsx": {
-    "file": "assets/Filter-648fc630.js",
+    "file": "assets/Filter-d283d5a1.js",
     "imports": [
       "index.html"
     ],
@@ -204,7 +204,7 @@
     "src": "src/components/Filter.jsx"
   },
   "src/components/Header.jsx": {
-    "file": "assets/Header-b33a8a6d.js",
+    "file": "assets/Header-87a973c2.js",
     "imports": [
       "index.html"
     ],
@@ -212,7 +212,7 @@
     "src": "src/components/Header.jsx"
   },
   "src/components/structure/Card.jsx": {
-    "file": "assets/Card-d0fac251.js",
+    "file": "assets/Card-bba537c7.js",
     "imports": [
       "index.html"
     ],
@@ -220,18 +220,18 @@
     "src": "src/components/structure/Card.jsx"
   },
   "src/components/structure/FlexBox.jsx": {
-    "file": "assets/FlexBox-84812b7b.js",
+    "file": "assets/FlexBox-1fcb3d19.js",
     "imports": [
       "index.html",
-      "_ContentViewer-ae44b344.js",
-      "_HolidaysTimerLogistics-93df2f41.js",
+      "_ContentViewer-8fdf1543.js",
+      "_HolidaysTimerLogistics-08ea8e91.js",
       "src/components/Header.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/components/structure/FlexBox.jsx"
   },
   "src/components/structure/Main.jsx": {
-    "file": "assets/Main-1c3b9763.js",
+    "file": "assets/Main-0940d638.js",
     "imports": [
       "index.html"
     ],
@@ -239,7 +239,7 @@
     "src": "src/components/structure/Main.jsx"
   },
   "src/components/structure/Title.jsx": {
-    "file": "assets/Title-657f106e.js",
+    "file": "assets/Title-6fc163b1.js",
     "imports": [
       "index.html"
     ],
