@@ -1,6 +1,0 @@
-import{g as e,j as r,a as t,s as n}from"./index-0b0b8bde.js";import{H as o}from"./HolidaysTimerLogistics-ef888d5f.js";import i from"./Header-c6f3dcab.js";var s={exports:{}};function a(){}function p(){}p.resetWarningCache=a;s.exports=function(){function e(e,r,t,n,o,i){if("SECRET_DO_NOT_PASS_THIS_OR_YOU_WILL_BE_FIRED"!==i){var s=new Error("Calling PropTypes validators directly is not supported by the `prop-types` package. Use PropTypes.checkPropTypes() to call them. Read more at http://fb.me/use-check-prop-types");throw s.name="Invariant Violation",s}}function r(){return e}e.isRequired=e;var t={array:e,bigint:e,bool:e,func:e,number:e,object:e,string:e,symbol:e,any:e,arrayOf:r,element:e,elementType:e,instanceOf:r,node:e,objectOf:r,oneOf:r,oneOfType:r,shape:r,exact:r,checkPropTypes:p,resetWarningCache:a};return t.PropTypes=t,t}();const c=e(s.exports);function l({children:e,title:n}){return r("div",{className:"wrapper-content",children:[t(o,{}),t(i,{title:n}),t(f,{children:e})]})}l.propTypes={children:c.node,title:c.string};const f=n.main`
-    flex-direction: column;
-    position: relative;
-    width: 100%;
-    display: flex;`;export{l as C,c as P};
-//# sourceMappingURL=ContentViewer-05878e0f.js.map
