@@ -32,7 +32,7 @@
       {
         "image": "/uploads/imgbooks/physics10.jpg",
         "title": "Физика: учебное пособие",
-        "description": "9 класс, русский язык обучения, 2019, Громыко, Е. В. [и др.]",
+        "description": "10 класс, русский язык обучения, 2019, Громыко, Е. В. [и др.]",
         "link": {
           "url": "https://e-padruchnik.adu.by/books/fizika/Fizika_10kl_Gromika_rus_2019.pdf",
           "type": "LINK"
@@ -52,56 +52,13 @@
   "teachers": {
     "title": "Учителю",
     "items": [
-      {
-        "image": "/uploads/инф.jpg",
-        "title": "Блог «Информатика@»",
-        "description": "Автор ресурса - Здановская Ольга Владимировна, учитель информатики и математики, ГУО \"Гимназия №1 имени К.Калиновского Г.Свислочь\"",
-        "link": {
-          "url": "https://e-tetr.blogspot.com/",
-          "type": "LINK"
-        }
-      },
-      {
-        "image": "/uploads/сайт.png",
-        "title": "Сайт учителя информатики Трашкова Олега Леонидовича",
-        "description": "Автор ресурса - Трашков Олег Леонидович, учитель информатики ГУО \"Учебно-педагогический комплекс детский сад - средняя школа №42 города Могилёва\".",
-        "link": {
-          "url": "http://trashkov.net.by/index.html",
-          "type": "LINK"
-        }
-      },
-      {
-        "image": "/uploads/logo7.png",
-        "title": "Блог «К урокам информатики»",
-        "description": "Автор ресурса - Стаскевич Галина Адамовна, учитель информатики ГУО \"Средняя школа № 3 г.Ивацевичи\"",
-        "link": {
-          "url": "https://staskevich.rooivacevichi.gov.by/",
-          "type": "LINK"
-        }
-      },
-      {
-        "image": "/uploads/kartinka.jpg",
-        "title": "Информационно-образовательный сайт учителя информатики и ИКТ",
-        "description": "",
-        "link": {
-          "url": "http://www.klyaksa.net/htm/kopilka/index.htm",
-          "type": "LINK"
-        }
-      }
+      
     ]
   },
   "children": {
     "title": "Учащимся",
     "items": [
-      {
-        "image": "/uploads/олимпиада.jpg",
-        "title": "Олимпиады по информатике",
-        "description": "",
-        "link": {
-          "url": "http://www.byoi.narod.ru/slu04_2.htm",
-          "type": "LINK"
-        }
-      }
+      
     ]
   }
 }
