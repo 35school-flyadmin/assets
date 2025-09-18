@@ -3,7 +3,7 @@
     "title": "Учебники",
     "items": [
       {
-        "image": "/uploads/1.jpg",
+        "image": "/uploads/imgbooks/1.jpg",
         "title": "Математика: учебное пособие. Ч.1",
         "description": "5 класс, русский язык обучения, 2020, Герасимов, В. Д., Пирютко, О. Н., Лобанов, А. П.",
         "link": {
@@ -12,7 +12,7 @@
         }
       },
       {
-        "image": "/uploads/2.jpg",
+        "image": "/uploads/imgbooks/2.jpg",
         "title": "Математика: учебное пособие. Ч.2",
         "description": "5 класс, русский язык обучения, 2020, Герасимов, В. Д., Пирютко, О. Н., Лобанов, А. П.",
         "link": {
@@ -21,7 +21,7 @@
         }
       },
       {
-        "image": "/uploads/math6.jpg",
+        "image": "/uploads/imgbooks/math6.jpg",
         "title": "Математика: учебное пособие.",
         "description": "6 класс, русский язык обучения, 2018, Герасимов, В. Д., Пирютко, О. Н.",
         "link": {
@@ -30,7 +30,7 @@
         }
       },
       {
-        "image": "/uploads/algebra7.jpg",
+        "image": "/uploads/imgbooks/algebra7.jpg",
         "title": "Алгебра: учебное пособие.",
         "description": "7 класс, русский язык обучения, 2017, Арефьева, И.Г., Пирютко, О. Н.",
         "link": {
@@ -39,7 +39,7 @@
         }
       },
       {
-        "image": "/uploads/geo7.jpg",
+        "image": "/uploads/imgbooks/geo7.jpg",
         "title": "Геометрия учебное пособие.",
         "description": "7 класс, русский язык обучения, 2017, Казаков В.В.",
         "link": {
