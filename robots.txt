@@ -1,0 +1,6 @@
+# Разрешаем всем поисковикам сканировать сайт
+User-agent: *
+Disallow:
+
+# Указываем расположение карты сайта
+Sitemap: https://35school.flyadmin.ru/sitemap.xml
