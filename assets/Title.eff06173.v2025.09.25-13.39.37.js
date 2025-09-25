@@ -1,4 +1,4 @@
-import{a as t,s as e}from"./index.a9ab95a3.v2025.09.18-22.14.47.js";function i({children:e}){
+import{a as t,s as e}from"./index.88f42fb9.v2025.09.25-13.39.37.js";function i({children:e}){
 return t(n,{children:e})}const n=e.div`
   color: #219653;
   font-size: 28px;

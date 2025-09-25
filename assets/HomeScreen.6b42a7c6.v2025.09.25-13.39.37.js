@@ -1,4 +1,4 @@
-import{j as i,a as e,L as t,s as n}from"./index.a9ab95a3.v2025.09.18-22.14.47.js";function o(){
+import{j as i,a as e,L as t,s as n}from"./index.88f42fb9.v2025.09.25-13.39.37.js";function o(){
 return i(a,{children:[
 e(l,{children:i("nav",{children:[
 e("li",{children:e(t,{to:"teachers-page",className:"button",children:"Учителя"})}),
@@ -20,7 +20,7 @@ i("div",{className:"counter",children:[
 e("img",{src:"/images/teachers-icon.svg",alt:"teacher"}),
 i("p",{children:["В методическом объединении ",
 e("span",{children:"участвует"})," более 8 учителей."]})]}),
-e("img",{src:"/assets/cover.675bdbb8.v2025.09.18-22.14.47.jpg",alt:"School"})]})]}),
+e("img",{src:"/assets/cover.675bdbb8.v2025.09.25-13.39.37.jpg",alt:"School"})]})]}),
 e("div",{className:"title",children:'ГУО "Средняя школа №35 имени Н.А. Волкова г. Гродно"'})]})}const a=n.div`
     max-height: 100vh;
     background-color: #FFFFFF;

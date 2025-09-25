@@ -1,4 +1,4 @@
-import{u as e,r as t,a as o,j as r,s as i}from"./index.a9ab95a3.v2025.09.18-22.14.47.js";import{H as s}from"./HolidaysTimerLogistics.e31ef7d2.v2025.09.18-22.14.47.js";const n="viewer_data_object";function a(){const r=e();return t.useEffect((()=>{null===sessionStorage.getItem(n)&&r(-1)}),[]),JSON.parse(sessionStorage.getItem(n)),o(l,{})}function l(){const t=e(),{title:i}=JSON.parse(sessionStorage.getItem(n));
+import{u as e,r as t,a as o,j as r,s as i}from"./index.88f42fb9.v2025.09.25-13.39.37.js";import{H as s}from"./HolidaysTimerLogistics.53be4b16.v2025.09.25-13.39.37.js";const n="viewer_data_object";function a(){const r=e();return t.useEffect((()=>{null===sessionStorage.getItem(n)&&r(-1)}),[]),JSON.parse(sessionStorage.getItem(n)),o(l,{})}function l(){const t=e(),{title:i}=JSON.parse(sessionStorage.getItem(n));
 return r(c,{children:[
 o(s,{}),
 o("div",{className:"title",children:i}),

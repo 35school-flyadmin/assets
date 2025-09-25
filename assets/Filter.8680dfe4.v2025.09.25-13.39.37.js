@@ -1,4 +1,4 @@
-import{a as e,j as i,s as a}from"./index.a9ab95a3.v2025.09.18-22.14.47.js";function n({items:a=[],active:n="",onChange:l}){
+import{a as e,j as i,s as a}from"./index.88f42fb9.v2025.09.25-13.39.37.js";function n({items:a=[],active:n="",onChange:l}){
 return e(t,{children:e(r,{children:a.map(((a,t)=>e(o,{onClick:()=>l&&l(a.value),className:""+(a.value===n?"active":""),children:i("span",{children:["#",a.title]})},t)))})})}const t=a.div`
     display: flex;
     width: 100%;
