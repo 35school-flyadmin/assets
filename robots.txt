@@ -1,6 +1,11 @@
-# Разрешаем всем поисковикам сканировать сайт
 User-agent: *
-Disallow:
+Allow: /
 
-# Указываем расположение карты сайта
+Disallow: /data/
+Disallow: /file-test
+Disallow: /viewer-file-page
+Disallow: /sw.js
+Disallow: /workbox-*.js
+Disallow: /registerSW.js
+
 Sitemap: https://35school.flyadmin.ru/sitemap.xml
