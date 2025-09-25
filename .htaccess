@@ -1,4 +1,14 @@
 RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ /index.html [L,QSA]
+
+# Если запрашивают robots.txt или sitemap.xml — отдаем напрямую
+RewriteCond %{REQUEST_URI} ^/robots\.txt$ [OR]
+RewriteCond %{REQUEST_URI} ^/sitemap\.xml$
+RewriteRule ^ - [L]
+
+# Если файл существует или директория существует — отдаем напрямую
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Иначе — редиректим всё на index.html (React SPA)
+RewriteRule ^ index.html [L,QSA]
