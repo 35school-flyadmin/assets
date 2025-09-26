@@ -1,4 +1,4 @@
-import{a as e,j as a,L as s}from"./index.88f42fb9.v2025.09.25-13.39.37.js";function t(){
+import{a as e,j as a,L as s}from"./index.542724f3.v2025.09.26-14.20.36.js";function t(){
 return e("div",{className:"wrapper-content",children:a("header",{className:"first-header",children:[
 a("div",{className:"header-first-box",children:[
 a("div",{className:"header-first-box-title",children:['ГУО "Средняя школа №35',

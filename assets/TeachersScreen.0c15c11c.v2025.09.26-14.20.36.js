@@ -1,4 +1,4 @@
-import{r as e,j as a,a as i,s as t,_ as n}from"./index.88f42fb9.v2025.09.25-13.39.37.js";import r from"./Header.d4b92287.v2025.09.25-13.39.37.js";import{H as d,g as l}from"./HolidaysTimerLogistics.53be4b16.v2025.09.25-13.39.37.js";import{u as c}from"./additional.c4f80976.v2025.09.25-13.39.37.js";function s(t){const n=t.teacher,[r="",d="",l=""]=n.title.trim().split(/\s+/),s=e.useCallback((e=>"MATHEMATICS"===e?"📐 Математика":"INFORMATICS"===e?"💻 Информатика":"PHYSICS"===e?"🧲 Физика":null),[]);
+import{r as e,j as a,a as i,s as t,_ as n}from"./index.542724f3.v2025.09.26-14.20.36.js";import r from"./Header.c7155494.v2025.09.26-14.20.36.js";import{H as d,g as l}from"./HolidaysTimerLogistics.cdec8585.v2025.09.26-14.20.36.js";import{u as c}from"./additional.c4f80976.v2025.09.26-14.20.36.js";function s(t){const n=t.teacher,[r="",d="",l=""]=n.title.trim().split(/\s+/),s=e.useCallback((e=>"MATHEMATICS"===e?"📐 Математика":"INFORMATICS"===e?"💻 Информатика":"PHYSICS"===e?"🧲 Физика":null),[]);
 return a(o,{children:[
 i("div",{className:"teacher-avatar-box",children:i("div",{className:"teacher-avatar",children:i("img",{src:c(n.image),alt:"photo"})})}),
 a("div",{className:"teacher-name-box",children:[
@@ -200,7 +200,7 @@ i("div",{className:"teacher-lesson",children:n.types.length>0&&n.types.map(((e,a
     position: relative;
     gap: 24px;
     box-sizing: border-box;
-`,m=e.lazy((()=>n((()=>import("./Filter.8680dfe4.v2025.09.25-13.39.37.js")),["assets/Filter.8680dfe4.v2025.09.25-13.39.37.js","assets/index.88f42fb9.v2025.09.25-13.39.37.js","assets/index.cffc947d.v2025.09.25-13.39.37.css"])));function h(){var t;const[n,c]=e.useState("ALL"),[s,o]=e.useState([]),x=e.useCallback((()=>{let e=[];return"ALL"!==n&&(e=s.filter((e=>e.types.find((e=>e.title===n))))),"ALL"===n&&(e=s),e.sort(((e,a)=>e.title<a.title?-1:e.title>a.title?1:0))}),[n,s]);return e.useEffect((()=>{!async function(){try{const e=await fetch(`/data/teachers-data.json?v=${l()}`),a=await e.json();o(a.filter((e=>e.active)))}catch(e){}}()}),[]),a("div",{className:"wrapper-content",children:[
+`,m=e.lazy((()=>n((()=>import("./Filter.035a86de.v2025.09.26-14.20.36.js")),["assets/Filter.035a86de.v2025.09.26-14.20.36.js","assets/index.542724f3.v2025.09.26-14.20.36.js","assets/index.cffc947d.v2025.09.26-14.20.36.css"])));function h(){var t;const[n,c]=e.useState("ALL"),[s,o]=e.useState([]),x=e.useCallback((()=>{let e=[];return"ALL"!==n&&(e=s.filter((e=>e.types.find((e=>e.title===n))))),"ALL"===n&&(e=s),e.sort(((e,a)=>e.title<a.title?-1:e.title>a.title?1:0))}),[n,s]);return e.useEffect((()=>{!async function(){try{const e=await fetch(`/data/teachers-data.json?v=${l()}`),a=await e.json();o(a.filter((e=>e.active)))}catch(e){}}()}),[]),a("div",{className:"wrapper-content",children:[
 i(d,{}),
 i(r,{title:"Учителя"}),
 a("main",{className:"teachers",children:[
