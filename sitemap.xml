@@ -8,55 +8,55 @@
     </url>
 
     <url>
-        <loc>https://35school.flyadmin.ru/new</loc>
+        <loc>https://35school.flyadmin.ru/#/new</loc>
         <priority>0.9</priority>
         <changefreq>weekly</changefreq>
     </url>
 
     <url>
-        <loc>https://35school.flyadmin.ru/teachers-page</loc>
+        <loc>https://35school.flyadmin.ru/#/teachers-page</loc>
         <priority>0.8</priority>
         <changefreq>weekly</changefreq>
     </url>
 
     <url>
-        <loc>https://35school.flyadmin.ru/mathematics-page</loc>
+        <loc>https://35school.flyadmin.ru/#/mathematics-page</loc>
         <priority>0.8</priority>
         <changefreq>weekly</changefreq>
     </url>
 
     <url>
-        <loc>https://35school.flyadmin.ru/informatics-page</loc>
+        <loc>https://35school.flyadmin.ru/#/informatics-page</loc>
         <priority>0.8</priority>
         <changefreq>weekly</changefreq>
     </url>
 
     <url>
-        <loc>https://35school.flyadmin.ru/physics-page</loc>
+        <loc>https://35school.flyadmin.ru/#/physics-page</loc>
         <priority>0.8</priority>
         <changefreq>weekly</changefreq>
     </url>
 
     <url>
-        <loc>https://35school.flyadmin.ru/useful-links-page</loc>
+        <loc>https://35school.flyadmin.ru/#/useful-links-page</loc>
         <priority>0.7</priority>
         <changefreq>monthly</changefreq>
     </url>
 
     <url>
-        <loc>https://35school.flyadmin.ru/viewer-file-page</loc>
+        <loc>https://35school.flyadmin.ru/#/viewer-file-page</loc>
         <priority>0.6</priority>
         <changefreq>monthly</changefreq>
     </url>
 
     <url>
-        <loc>https://35school.flyadmin.ru/mo-page</loc>
+        <loc>https://35school.flyadmin.ru/#/mo-page</loc>
         <priority>0.8</priority>
         <changefreq>weekly</changefreq>
     </url>
 
     <url>
-        <loc>https://35school.flyadmin.ru/file-test</loc>
+        <loc>https://35school.flyadmin.ru/#/file-test</loc>
         <priority>0.5</priority>
         <changefreq>monthly</changefreq>
     </url>
